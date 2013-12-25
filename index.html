@@ -1,0 +1,17 @@
+---
+layout: default
+title: Auto lister
+---
+<h2>{{ page.title }}</h2>
+This site is used to test auto ftp listing scripts.
+
+We do NOT guarantee the contents are right
+
+We do NOT provide any download
+
+<p>What's New</p>
+<ul>
+    {% for post in site.posts %}
+        <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
