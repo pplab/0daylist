@@ -2,7 +2,7 @@
 SCRIPT=$(dirname $(readlink -f $0))
 _POSTS=$SCRIPT/../_posts
 FILENAME=$(date +%F)"-list.md"
-$SCRIPT/get0daylist.py |awk '{print $0;printf '\n';}' > $_POSTS/$FILENAME
+$SCRIPT/get0daylist.py|cut -d'/' -f4 |awk '{print $0;printf "\n";}' > $_POSTS/$FILENAME
 
 cd $SCRIPT/..
 git add $_POSTS/$FILENAME
