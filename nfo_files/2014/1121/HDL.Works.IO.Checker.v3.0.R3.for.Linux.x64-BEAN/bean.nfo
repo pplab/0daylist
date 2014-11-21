@@ -1,0 +1,84 @@
+В
+ВВмммм
+оВлллн
+оВлллн                                    п       ммммммммлмм
+оллллнппппппппллмм  мммлпппппппллмм    мм В млпппппп ммм пллпппппппппппплмм
+олллллпппллллммм пллп мммллпплммм пппллп  Вммммллппплллллнп млллмлпплллммм п
+лллллл     плллллм  мллллп    плллллм н млВлллп     оллллл лллллп    пллллллм
+оллллн      оллллл лллллн      олллллн олВВлл        лллллнолллн      оллллллн
+оллллн       ллллноллллл      мллллп   лпВВлн        оллллнолллн       ллллллл
+оллллн       лллл лллллн   ммлппп     мммлВлн        оллллнолллн       лллллллн
+оллллн       ллллноВлллл          ммллллллВол        оллллнолллн       оллллллн
+оллллн АААА олллллВВллллн ААААА млллллллллВ лн ААААА лллллнолллн ААААА оллллллл
+оллллн     мллллллВВлллллн       ллллллллллнолм     олллллнолллн       оллллллн
+оллллн   млллллп м Вплллллм      олллллллллл пллмммВплллллнолллн       ллллллл
+ппппплмпппп ммммллллм  пппппплмммллллпппп мммммммммВ ппппп ппппп мммм оллллллп
+ппплммммлппппп     пппппппплммммммммммлппппsQz<SAC>Впппппппппппппппп  лппп  
+                                                                     Вп
+                                                                    пВ
+
+ ммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммм
+лллппп                                                                   пппллл
+лп                     IO Checker v3.0 R3 (C) HDL Works                      пл
+лп                                                                           пм
+В ФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФ В
+Б   Disks: 9 x 5mb                                Date : November 20, 2014    Б
+А   OS   : Linux x64                              Type : Crack                А
+ м  мммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммм  мм   м
+пмпп
+лп
+В  Release Description:
+Б  ~~~~~~~~~~~~~~~~~~~
+А
+А  Verifying hundreds of FPGA IO pins between PCB and FPGA in minutes
+А  
+А  - When using large FPGA's on a PCB making sure that the FPGA pins are
+А    connected to the right signals is a cumbersome task. On the FPGA side
+А    the pins are assigned to the HDL signals that form the toplevel of the
+А    logic implemented on the FPGA. On the PCB side the pins have to be
+А    connected to the proper net that will connect it to other components
+А    on the PCB. Because implementation of FPGA and PCB is often done in
+А    parallel, the signal names used are not always identical. To make
+А    things even worse, it is often necessary to perform pin swaps to
+А    prevent PCB routing problems. These pin swaps have to be made both
+А    on the FPGA and the PCB. As this is almost always manual work, and
+А    current devices have over 1500 pins, a mistake is easily made.
+А  
+А  Intelligent Verification
+А  - IO Checker uses rules (based on regular expressions) to match the
+А    signal names in both the FPGA and PCB design environment. It allows
+А    the tool to validate groups of matches although individual signals can
+А    still differ. The rules can be generated automatically and be fine-tuned
+А    by the designer. The automated approach will often match 80% to 90% of
+А    all device pins.
+А  
+А  - The flexibility of IO Checker allows it to be used in any design flow
+А    and does not require any design methodology. The rules generator in
+А    combination with the sorted problem view allows engineers to validate
+А    a 1000+ pins device in half an hour.
+А  
+А  - Once the project and its rules are defined it is a simple task to keep
+А    the FPGA and PCB data consistent. All out-of-date files are processed in
+А    one action and all changes are reported.
+А
+ м  мммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммм  мм   м
+пмпп
+лп Installation:
+В  """""""""""""""
+Б  
+А  Just unpack&install. Unpack crack.rar to installdir/bin/linux.
+А
+ м  мммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммм  мм   м
+пмпп
+лп Greetz:
+В  """""""""""""""
+Б
+А
+ м  мммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммммм  мм   м
+пмпп
+лп Contact Us:
+В  """""""""""""""
+Б
+А
+пплмммм м                                                             м ммммлпп
+  ппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппппп
