@@ -1,0 +1,165 @@
+                   /
+                       (_
+                 /    ___)              /
+         _ _____/    (                 /(____ __ _
+             )_      /                /    (
+   ........ . /     /.. .            /     /               .
+   :         /     /                /     /                .
+   :    ____/     /__________   ___/     /___              :
+   :   (  \      _____     /     \     _____/              .
+   :... . /     /   //    /______/    //   _______  . ......
+         /     /___/  ___/      /     /   /    (           :
+        /    _____     \       _\_   /___/     /           .
+   _ __/_____(_  /_____/      /    _____      /            .
+      /"       )      /      /_____/  _)     (__ ___ _      /
+             ________/__    /    '   (     ___        _____/(____
+           ___)__      / _ /_    :         /        ___)__      /
+          (__   /     / (_______,$        /        (_    /     /  _____
+             ' /     /    ,$$$***$$$,          .    .   /     /  /   (
+      ..... . /     /   ,$$^'   `$`^$$,     __,$_____) /    _/__/    /______ _.
+ .____:__ ___/     /___.$$'___   '  `$$. ,$$$***$$$,  /   __________      /   |
+ |    :    \     _____ $$l (         l$$$$^'  `$"`^$$.    '(       /     /    |
+ |    :    /    //   / `$$,/        ,$$$$'     '   `$$.    /  ____/     /     |
+ |    .   /     /___/   `$$i,     ,i$$$$l  _ __     l$$   /.    \      /      |
+ |       /     ____      /`^$$*y*$$^' `$$,    (___ ,$$'__/ .    /     /___    |
+ |   _ _/_____(_  /     (__ _ ""$$'    `$$i,     ,i$$'""   :.../___  ____(_ ..|
+ |     /"       '/     ___       $       `^$$*y*$$^'       .       )/         |
+ |              /     /          :           """           :       /          |
+ |                            P R.E S E N T S              .                  |
+ |            /                  .                                            |
+ |                            JavaServer Faces                                |
+ |                                                                            |
+ |                         Introduction by Example                            |
+ |                                                                            |
+ |                                                                            |
+ | DATE: 2014-12-03  SIZE: 3,09MB   DISKS: 01_______4,77MB      PAGES:        |
+ |                                                                            |
+ | PUBLISHER: Apress                            GENRE: Computer Science       |
+ |                                                                            |
+ | AUTHOR: Josh Juneau                                                        |
+ |                                                                            |
+ | FORMAT: PDF    PROTECTION: none    EDITION:                                |
+ |                                                                            |
+ | URL: http://www.apress.com/9781484208397                                   |
+ |                                                                            |
+ | LANGUAGE: English   ISBN: 978-1-484208-39-7                                |
+ :                                                                            :
+ : This book is about using JavaServer Faces to create and deploy interactive :
+ : applications delivered to end users via a browser interface. JavaServer    :
+ : Faces is the component-based technology enabling easy development of such  :
+ : applications, especially applications of the type commonly needed in       :
+ : enterprise environments. JavaServerFaces: Introduction by Example is a     :
+ : to-the-point, 250-page introduction to an important technology that every  :
+ : Java Enterprise Edition programmer should know and be able to use.         :
+ :                                                                            :
+ : JavaServer Faces: Introduction by Example takes you through building and   :
+ : deploying servlet-based web pages built around JavaServer Faces, Facelets, :
+ : managed Java Beans, and prebuilt user-interface components. You'll learn to:
+ : build user interfaces that run in the browser, to display data drawn from  :
+ : corporate databases, accept user input, deal with errors and exceptions,   :
+ : and more.                                                                  :
+ :                                                                            :
+ : JavaServer Faces is an important user-interface technology for any Java    :
+ : developer to learn who works in an enterprise environment. JavaServer      :
+ : Faces: Introduction by Example is your no-nonsense guide to getting started:
+ : right away in taking advantage of the technology's component-driven        :
+ : approach.                                                                  :
+ :                                                                            :
+ :     Introduces servlets, which are the basis for JavaServer Faces          :
+ : applications     Covers development and deployment of user interfaces in   :
+ : the browser     Demonstrates advanced techniques such as the use of AJAX   :
+ :                                                                            :
+ : What you’ll learn                                                          :
+ :                                                                            :
+ :     Create web pages to present dynamic content drawn from databases and   :
+ :     other sources                                                          :
+ :     Accept and respond to user input, including validation                 :
+ :     and error handling                                                     :
+ :     Embed Java in order to handle business logic                           :
+ :     Implement navigation to control a user's path through a transaction    :
+ :     Design pages with Facelets, the view-definition language of JavaServer :
+ :     Pages                                                                  :
+ :     Respond to user actions in real time by using AJAX-based               :
+ :     techniques                                                             :
+
+ .                                                                            :
+
+                                                                             .:
+                                                                             `:
+ .                                                                           ::
+   Looking for suppliers of quality Ebooks in any language!                  ::
+ :                                                                           ::
+ :.                           ....,               ....  ....   `   ..       .::
+ :                          :::'   '       ...::::'''     ``::::::...` ```:::::
+ `:                        ::::.    ....:::::::::..      ..:' `:'::::::::...``:
+ `:                        `::::::...``:::::::::' `::'''''':  .:::::::::::::::.
+ ::                     ' ...```:::::::. `'''''''....::'.:.  . ... ```````:::::
+ ::            .  ''...::::::::' . ``:::: ::'.: ::::::: ::: ::. : ' .:'  ..   '
+ :::....::::'''...:::::::''''..::::;. ::: :: ::: ::::::: ::.`:: :  .:`:,:' ' :
+ `:::''''...::::::'''' ...:::::::::''.:: :::.`::: ::::::.`:: :: `:::. .:    :'
+ . .,::::'''''.. .   :::::::::::''.::''  ::::.`::: :::::: ::. :: :'`:::     :
+ : ' .....''''       `.:::::''..:''..:::.`::::.`::: :::::.`:: ::.`::' :.   ::
+ :. ``::             .::::'.:''.....``:::.`:::::.`:: ::::: ::  :: :.   ::.::'
+ :'                 .::::'.:' ''``:::. :::.`::::::.`: :::' :: : :: :::' `:.:
+ .                 :::::: :'  .$$. ``' `:::.`:::::::.` :: ::: `: :: ::   :'
+ .                .`::::: : . `. $'.:' .:::::`::::::::. ' :: :.`: :: :: . .
+                 ::.`::::. :.   _..''  :.: :'  `:::::::: ::: ::.`: :: :':'
+                ::::::::::.`:.       .:':  '.:.  `:::::'::: ::::.`: ::` :
+ .              `:`::.::::::..``..::::' '.   '  :  :::':::' :::::.`: :: '
+ :               ` :'::::::':::::::::::.:`::.:::'.: :':::'.`.`::::.`: ::
+ .               :.':::::::.`:::::::::':. .:' :  :' .:::'::: :`::::.`: :'.:.
+                 ` ::::::::::.``:::::   ::: . ' :: .:::'::::: :`::::.` .:'.:
+ .                ::::::::::..`:..```...:.' ' . : .:::; .::::: :`:::'.:'.::'
+                 :::::::::::::: ::::::'::  :. : ' :::: :: ::::. ::'.:'.:::'.
+                 `:::::::'' . '  :::'`.: .:'  :  ::::'.::: :::: '.:'.:::'.':
+                  `''' ... :::.: `::.:.' :'  :'  :::: :::' ::::. :::::'.'.:'
+                   .:: `:: .:::' `::'   .:..:'. :::: :::' . :::: :::'.'.:'.:
+                   ... ... ..... ::::.'.:'.:: ` :'. :::' :: `:::: '.:::'.:':
+                 ...`` ``: :::'' ::::: :;:' ::. .:'.::: .:': :::: :::'.::.::
+                ` `:::::......:':::::'.: :.:' '.:' ::: .:'.:.:::: `'.::::::'
+                : .:::::::::::'.::::: '``::' ..': ::: ::'.: ::::: .:::::::'.
+                `::.:::::::::'::::::'.:: .:. . :'.::'.:'.:':::::'.:::::::'.'
+      ....       .`::::::''..::::::' ``: ''  ::: ::: :'.:: ::::: ::::::'. :
+   .:''   :    .:::.`::::::::::''. `.::::...:::: :::.`.:: :::::' ::::'.:'.:
+  ::     '     :::::::::::'''.'.:::. `::::::::::: :::.:: ::::::  `:'.::: :
+ ::'           `::::::'' ..::' ::::'.:.`:::::::::.`:'::  ::::::  :. :::'.:
+ ::             .`''..:::::'' ::::'.:::'.`::::::::: :: . :::::  :: :::'.:
+ :'              ``::'  `::  ::::'.:::: ::.`:::::: :: ::. :::: :: :::: :'.
+ :                 :' :  :' ::::'.:::: :::::.`::: .::  ::.`:: .: :::: :'.:
+ :.              : : .'  : ::::'.:::: :::::::..`'.:: :. :: :: :: ::: .: :'
+ ::             .: :.' . : :::'.:::: :::::' `::' :: .:: :'.: .: :::  :' `:
+ `::..    ...::::' '   ' : ::'.:::: :::::::.::  .:: ::'.'.:: :' ::   :    `
+  `:::::::::::::: :    : ' :'.:::: :::::' `::   :: .::..:::: : ::'   `.
+ .   ``':::::'' .::.  :' :   :::: :::::::.::    :: :::::::: :' ::     `.
+ ::..       ..::::::::'  .  :::: :::::' `::    .:' :::::::: : ::'
+ :::::: : ::::::::::' .'   .:::':::::::.::     :: .:::::::: '.::
+ `:::: :'.::::::'' ..:'    ::'.:::::' `::     ......... ::: .:::
+  ``:: :.`::''   .. `:    .'.:::'::::.::      : '     : ::: :::
+       `:.      :  ' '   ..:;''.::' `::       : SMALL : ::  :::
+        `:::..  ``....::'''..::::::.:::       : STATS : ::  ::::
+          `::::::.......::::::::' `::'.       : ZO1Z! : ::  `:::
+            ``:::::::::::::::::::.::: .       :.......' : .  :::.
+                ````:::::::::'' :::::.:          ......;: `.  :::      .
+                        ````` ...::::::.          :::::::: :   :::.   .'
+                         ` ..  ``````:::::::....   ::::::: `:   ``::::'
+                             ``:::::....... .       ::::::: :.
+                                  '''::'' ..          :::::. :.
+                                      : `:'             ::::. ::
+                                      '  '                `::. ::
+                                      :                     `: `::
+                                                             '  :::
+                                      .                         `::
+                                                                 :::
+                                      :                          :::
+                                      .                          `::.
+                                                                  :::
+                                                                  ::'
+                                                                  ::
+                                                                 .:'
+                                                                 ::
+                                      .                          :'
+                                      .                         :'
+                                      :                .       :
+                                      .                `.   ..'
+                                                         '''
+			   			
