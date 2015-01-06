@@ -1,0 +1,157 @@
+                   /
+                       (_
+                 /    ___)              /
+         _ _____/    (                 /(____ __ _
+             )_      /                /    (
+   ........ . /     /.. .            /     /               .
+   :         /     /                /     /                .
+   :    ____/     /__________   ___/     /___              :
+   :   (  \      _____     /     \     _____/              .
+   :... . /     /   //    /______/    //   _______  . ......
+         /     /___/  ___/      /     /   /    (           :
+        /    _____     \       _\_   /___/     /           .
+   _ __/_____(_  /_____/      /    _____      /            .
+      /"       )      /      /_____/  _)     (__ ___ _      /
+             ________/__    /    '   (     ___        _____/(____
+           ___)__      / _ /_    :         /        ___)__      /
+          (__   /     / (_______,$        /        (_    /     /  _____
+             ' /     /    ,$$$***$$$,          .    .   /     /  /   (
+      ..... . /     /   ,$$^'   `$`^$$,     __,$_____) /    _/__/    /______ _.
+ .____:__ ___/     /___.$$'___   '  `$$. ,$$$***$$$,  /   __________      /   |
+ |    :    \     _____ $$l (         l$$$$^'  `$"`^$$.    '(       /     /    |
+ |    :    /    //   / `$$,/        ,$$$$'     '   `$$.    /  ____/     /     |
+ |    .   /     /___/   `$$i,     ,i$$$$l  _ __     l$$   /.    \      /      |
+ |       /     ____      /`^$$*y*$$^' `$$,    (___ ,$$'__/ .    /     /___    |
+ |   _ _/_____(_  /     (__ _ ""$$'    `$$i,     ,i$$'""   :.../___  ____(_ ..|
+ |     /"       '/     ___       $       `^$$*y*$$^'       .       )/         |
+ |              /     /          :           """           :       /          |
+ |                            P R.E S E N T S              .                  |
+ |            /                  .                                            |
+ |           Practical Salesforce.com Development Without Code                |
+ |                                                                            |
+ |            Customizing Salesforce on the Force.com Platform                |
+ |                                                                            |
+ |                                                                            |
+ | DATE: 2015-01-06  SIZE: 12,18MB  DISKS: 03_______4,77MB      PAGES:        |
+ |                                                                            |
+ | PUBLISHER: Apress                            GENRE: Computer Science       |
+ |                                                                            |
+ | AUTHOR: Philip Weinmeister                                                 |
+ |                                                                            |
+ | FORMAT: PDF    PROTECTION: none    EDITION:                                |
+ |                                                                            |
+ | URL: http://www.apress.com/9781484200988?gtmf=s                            |
+ |                                                                            |
+ | LANGUAGE: English   ISBN: 978-1-484200-98-8                                |
+ :                                                                            :
+ : Are you facing a challenging Salesforce.com problem—say, relating to       :
+ : customization, configuration, reporting, dashboards, or formulation—that   :
+ : you can’t quite crack? Or maybe you are hoping to infuse some creativity   :
+ : into your solution design strategy to solve problems faster or make        :
+ : solutions more efficient? Practical Salesforce.com Development Without Code:
+ : shows you how to unlock the power of the Force.com platform to solve real  :
+ : business problems—and all without writing a line of code. Adhering to      :
+ : Salesforce.com’s "Clicks, not code" mantra, Salesforce.com expert Phil     :
+ : Weinmeister walks you through different business problems and identifies   :
+ : effective, creative—and proven—approaches to solutions using the software’s:
+ : declarative framework.                                                     :
+ :                                                                            :
+ : If you are a Salesforce.com administrator, analyst, consultant, or         :
+ : developer, you can attest to the insatiable appetite of users for new      :
+ : functionality. Your clients expect solutions—and now. Practical            :
+ : Salesforce.com Development Without Code is your lifeline. You will learn   :
+ : how to deliver business solutions within Salesforce.com by combining       :
+ : analysis, creativity, and logic with some of its core elements, including  :
+ : validation rules, workflow rules, and formula fields. In addition,         :
+ : Weinmeister dissects and explains the most useful functions and features   :
+ : for developers, and shows you how to use them. Among other things, you will:
+ : learn how to:                                                              :
+ :                                                                            :
+ :     Automate business processes                                            :
+ :     Build reports                                                          :
+ :     Customize interfaces and dashboards                                    :
+ :     Become expert in developing formulas                                   :
+ :     Learn how to use functions effectively                                 :
+ :     Develop intricate approval processes                                   :
+
+ .                                                                            :
+
+                                                                             .:
+                                                                             `:
+ .                                                                           ::
+   Looking for suppliers of quality Ebooks in any language!                  ::
+ :                                                                           ::
+ :.                           ....,               ....  ....   `   ..       .::
+ :                          :::'   '       ...::::'''     ``::::::...` ```:::::
+ `:                        ::::.    ....:::::::::..      ..:' `:'::::::::...``:
+ `:                        `::::::...``:::::::::' `::'''''':  .:::::::::::::::.
+ ::                     ' ...```:::::::. `'''''''....::'.:.  . ... ```````:::::
+ ::            .  ''...::::::::' . ``:::: ::'.: ::::::: ::: ::. : ' .:'  ..   '
+ :::....::::'''...:::::::''''..::::;. ::: :: ::: ::::::: ::.`:: :  .:`:,:' ' :
+ `:::''''...::::::'''' ...:::::::::''.:: :::.`::: ::::::.`:: :: `:::. .:    :'
+ . .,::::'''''.. .   :::::::::::''.::''  ::::.`::: :::::: ::. :: :'`:::     :
+ : ' .....''''       `.:::::''..:''..:::.`::::.`::: :::::.`:: ::.`::' :.   ::
+ :. ``::             .::::'.:''.....``:::.`:::::.`:: ::::: ::  :: :.   ::.::'
+ :'                 .::::'.:' ''``:::. :::.`::::::.`: :::' :: : :: :::' `:.:
+ .                 :::::: :'  .$$. ``' `:::.`:::::::.` :: ::: `: :: ::   :'
+ .                .`::::: : . `. $'.:' .:::::`::::::::. ' :: :.`: :: :: . .
+                 ::.`::::. :.   _..''  :.: :'  `:::::::: ::: ::.`: :: :':'
+                ::::::::::.`:.       .:':  '.:.  `:::::'::: ::::.`: ::` :
+ .              `:`::.::::::..``..::::' '.   '  :  :::':::' :::::.`: :: '
+ :               ` :'::::::':::::::::::.:`::.:::'.: :':::'.`.`::::.`: ::
+ .               :.':::::::.`:::::::::':. .:' :  :' .:::'::: :`::::.`: :'.:.
+                 ` ::::::::::.``:::::   ::: . ' :: .:::'::::: :`::::.` .:'.:
+ .                ::::::::::..`:..```...:.' ' . : .:::; .::::: :`:::'.:'.::'
+                 :::::::::::::: ::::::'::  :. : ' :::: :: ::::. ::'.:'.:::'.
+                 `:::::::'' . '  :::'`.: .:'  :  ::::'.::: :::: '.:'.:::'.':
+                  `''' ... :::.: `::.:.' :'  :'  :::: :::' ::::. :::::'.'.:'
+                   .:: `:: .:::' `::'   .:..:'. :::: :::' . :::: :::'.'.:'.:
+                   ... ... ..... ::::.'.:'.:: ` :'. :::' :: `:::: '.:::'.:':
+                 ...`` ``: :::'' ::::: :;:' ::. .:'.::: .:': :::: :::'.::.::
+                ` `:::::......:':::::'.: :.:' '.:' ::: .:'.:.:::: `'.::::::'
+                : .:::::::::::'.::::: '``::' ..': ::: ::'.: ::::: .:::::::'.
+                `::.:::::::::'::::::'.:: .:. . :'.::'.:'.:':::::'.:::::::'.'
+      ....       .`::::::''..::::::' ``: ''  ::: ::: :'.:: ::::: ::::::'. :
+   .:''   :    .:::.`::::::::::''. `.::::...:::: :::.`.:: :::::' ::::'.:'.:
+  ::     '     :::::::::::'''.'.:::. `::::::::::: :::.:: ::::::  `:'.::: :
+ ::'           `::::::'' ..::' ::::'.:.`:::::::::.`:'::  ::::::  :. :::'.:
+ ::             .`''..:::::'' ::::'.:::'.`::::::::: :: . :::::  :: :::'.:
+ :'              ``::'  `::  ::::'.:::: ::.`:::::: :: ::. :::: :: :::: :'.
+ :                 :' :  :' ::::'.:::: :::::.`::: .::  ::.`:: .: :::: :'.:
+ :.              : : .'  : ::::'.:::: :::::::..`'.:: :. :: :: :: ::: .: :'
+ ::             .: :.' . : :::'.:::: :::::' `::' :: .:: :'.: .: :::  :' `:
+ `::..    ...::::' '   ' : ::'.:::: :::::::.::  .:: ::'.'.:: :' ::   :    `
+  `:::::::::::::: :    : ' :'.:::: :::::' `::   :: .::..:::: : ::'   `.
+ .   ``':::::'' .::.  :' :   :::: :::::::.::    :: :::::::: :' ::     `.
+ ::..       ..::::::::'  .  :::: :::::' `::    .:' :::::::: : ::'
+ :::::: : ::::::::::' .'   .:::':::::::.::     :: .:::::::: '.::
+ `:::: :'.::::::'' ..:'    ::'.:::::' `::     ......... ::: .:::
+  ``:: :.`::''   .. `:    .'.:::'::::.::      : '     : ::: :::
+       `:.      :  ' '   ..:;''.::' `::       : SMALL : ::  :::
+        `:::..  ``....::'''..::::::.:::       : STATS : ::  ::::
+          `::::::.......::::::::' `::'.       : ZO1Z! : ::  `:::
+            ``:::::::::::::::::::.::: .       :.......' : .  :::.
+                ````:::::::::'' :::::.:          ......;: `.  :::      .
+                        ````` ...::::::.          :::::::: :   :::.   .'
+                         ` ..  ``````:::::::....   ::::::: `:   ``::::'
+                             ``:::::....... .       ::::::: :.
+                                  '''::'' ..          :::::. :.
+                                      : `:'             ::::. ::
+                                      '  '                `::. ::
+                                      :                     `: `::
+                                                             '  :::
+                                      .                         `::
+                                                                 :::
+                                      :                          :::
+                                      .                          `::.
+                                                                  :::
+                                                                  ::'
+                                                                  ::
+                                                                 .:'
+                                                                 ::
+                                      .                          :'
+                                      .                         :'
+                                      :                .       :
+                                      .                `.   ..'
+                                                         '''
+			   			

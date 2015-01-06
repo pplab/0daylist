@@ -1,0 +1,158 @@
+                   /
+                       (_
+                 /    ___)              /
+         _ _____/    (                 /(____ __ _
+             )_      /                /    (
+   ........ . /     /.. .            /     /               .
+   :         /     /                /     /                .
+   :    ____/     /__________   ___/     /___              :
+   :   (  \      _____     /     \     _____/              .
+   :... . /     /   //    /______/    //   _______  . ......
+         /     /___/  ___/      /     /   /    (           :
+        /    _____     \       _\_   /___/     /           .
+   _ __/_____(_  /_____/      /    _____      /            .
+      /"       )      /      /_____/  _)     (__ ___ _      /
+             ________/__    /    '   (     ___        _____/(____
+           ___)__      / _ /_    :         /        ___)__      /
+          (__   /     / (_______,$        /        (_    /     /  _____
+             ' /     /    ,$$$***$$$,          .    .   /     /  /   (
+      ..... . /     /   ,$$^'   `$`^$$,     __,$_____) /    _/__/    /______ _.
+ .____:__ ___/     /___.$$'___   '  `$$. ,$$$***$$$,  /   __________      /   |
+ |    :    \     _____ $$l (         l$$$$^'  `$"`^$$.    '(       /     /    |
+ |    :    /    //   / `$$,/        ,$$$$'     '   `$$.    /  ____/     /     |
+ |    .   /     /___/   `$$i,     ,i$$$$l  _ __     l$$   /.    \      /      |
+ |       /     ____      /`^$$*y*$$^' `$$,    (___ ,$$'__/ .    /     /___    |
+ |   _ _/_____(_  /     (__ _ ""$$'    `$$i,     ,i$$'""   :.../___  ____(_ ..|
+ |     /"       '/     ___       $       `^$$*y*$$^'       .       )/         |
+ |              /     /          :           """           :       /          |
+ |                            P R.E S E N T S              .                  |
+ |            /                  .                                            |
+ |                     Practical Linux Infrastructure                         |
+ |                                                                            |
+ |                                                                            |
+ |                                                                            |
+ |                                                                            |
+ | DATE: 2015-01-06  SIZE: 4,40MB   DISKS: 01_______4,77MB      PAGES:        |
+ |                                                                            |
+ | PUBLISHER: Apress                            GENRE: Computer Science       |
+ |                                                                            |
+ | AUTHOR: Syed Ali                                                           |
+ |                                                                            |
+ | FORMAT: PDF    PROTECTION: none    EDITION:                                |
+ |                                                                            |
+ | URL: http://www.apress.com/9781484205129?gtmf=s                            |
+ |                                                                            |
+ | LANGUAGE: English   ISBN: 978-1-484205-12-9                                |
+ :                                                                            :
+ : Practical Linux Infrastructure teaches you how to use the best open source :
+ : tools to build a new Linux infrastructure, or alter an existing            :
+ : infrastructure, to ensure it stands up to enterprise-level needs. Each     :
+ : chapter covers a key area of implementation, with clear examples and       :
+ : step-by-step instructions.                                                 :
+ :                                                                            :
+ : Using this book, you値l understand why scale matters, and what             :
+ : considerations you need to make. You値l see how to switch to using Google  :
+ : Cloud Platform for your hosted solution, how to use KVM for your           :
+ : virtualization, how to use Git, Postfix, and MySQL for your version        :
+ : control, email, and database, and how to use Puppet for your configuration :
+ : management. For enterprise-level fault tolerance you値l use Apache, and for:
+ : load balancing and high availability, you'll use HAProxy and Keepalived.   :
+ : For trend analysis you値l learn how to use Cacti, and for notification     :
+ : you値l use Nagios. You値l also learn how to utilize BIND to implement DNS, :
+ : how to use DHCP (Dynamic Host Configuration Protocol), and how to setup    :
+ : remote access for your infrastructure using VPN and Iptables. You will     :
+ : finish by looking at the various tools you will need to troubleshoot issues:
+ : that may occur with your hosted infrastructure. This includes how to use   :
+ : CPU, network, disk and memory management tools such as top, netstat, iostat:
+ : and vmstat.                                                                :
+ :                                                                            :
+ : Author Syed Ali is a senior site reliability engineering manager, who has  :
+ : extensive experience with virtualization and Linux cloud based             :
+ : infrastructure. His previous experience as an entrepreneur in              :
+ : infrastructure computing offers him deep insight into how a business can   :
+ : leverage the power of Linux to their advantage. He brings his expert       :
+ : knowledge to this book to teach others how to perfect their Linux          :
+ : environments. Become a Linux infrastructure pro with Practical Linux       :
+ : Infrastructure today.                                                      :
+
+ .                                                                            :
+
+                                                                             .:
+                                                                             `:
+ .                                                                           ::
+   Looking for suppliers of quality Ebooks in any language!                  ::
+ :                                                                           ::
+ :.                           ....,               ....  ....   `   ..       .::
+ :                          :::'   '       ...::::'''     ``::::::...` ```:::::
+ `:                        ::::.    ....:::::::::..      ..:' `:'::::::::...``:
+ `:                        `::::::...``:::::::::' `::'''''':  .:::::::::::::::.
+ ::                     ' ...```:::::::. `'''''''....::'.:.  . ... ```````:::::
+ ::            .  ''...::::::::' . ``:::: ::'.: ::::::: ::: ::. : ' .:'  ..   '
+ :::....::::'''...:::::::''''..::::;. ::: :: ::: ::::::: ::.`:: :  .:`:,:' ' :
+ `:::''''...::::::'''' ...:::::::::''.:: :::.`::: ::::::.`:: :: `:::. .:    :'
+ . .,::::'''''.. .   :::::::::::''.::''  ::::.`::: :::::: ::. :: :'`:::     :
+ : ' .....''''       `.:::::''..:''..:::.`::::.`::: :::::.`:: ::.`::' :.   ::
+ :. ``::             .::::'.:''.....``:::.`:::::.`:: ::::: ::  :: :.   ::.::'
+ :'                 .::::'.:' ''``:::. :::.`::::::.`: :::' :: : :: :::' `:.:
+ .                 :::::: :'  .$$. ``' `:::.`:::::::.` :: ::: `: :: ::   :'
+ .                .`::::: : . `. $'.:' .:::::`::::::::. ' :: :.`: :: :: . .
+                 ::.`::::. :.   _..''  :.: :'  `:::::::: ::: ::.`: :: :':'
+                ::::::::::.`:.       .:':  '.:.  `:::::'::: ::::.`: ::` :
+ .              `:`::.::::::..``..::::' '.   '  :  :::':::' :::::.`: :: '
+ :               ` :'::::::':::::::::::.:`::.:::'.: :':::'.`.`::::.`: ::
+ .               :.':::::::.`:::::::::':. .:' :  :' .:::'::: :`::::.`: :'.:.
+                 ` ::::::::::.``:::::   ::: . ' :: .:::'::::: :`::::.` .:'.:
+ .                ::::::::::..`:..```...:.' ' . : .:::; .::::: :`:::'.:'.::'
+                 :::::::::::::: ::::::'::  :. : ' :::: :: ::::. ::'.:'.:::'.
+                 `:::::::'' . '  :::'`.: .:'  :  ::::'.::: :::: '.:'.:::'.':
+                  `''' ... :::.: `::.:.' :'  :'  :::: :::' ::::. :::::'.'.:'
+                   .:: `:: .:::' `::'   .:..:'. :::: :::' . :::: :::'.'.:'.:
+                   ... ... ..... ::::.'.:'.:: ` :'. :::' :: `:::: '.:::'.:':
+                 ...`` ``: :::'' ::::: :;:' ::. .:'.::: .:': :::: :::'.::.::
+                ` `:::::......:':::::'.: :.:' '.:' ::: .:'.:.:::: `'.::::::'
+                : .:::::::::::'.::::: '``::' ..': ::: ::'.: ::::: .:::::::'.
+                `::.:::::::::'::::::'.:: .:. . :'.::'.:'.:':::::'.:::::::'.'
+      ....       .`::::::''..::::::' ``: ''  ::: ::: :'.:: ::::: ::::::'. :
+   .:''   :    .:::.`::::::::::''. `.::::...:::: :::.`.:: :::::' ::::'.:'.:
+  ::     '     :::::::::::'''.'.:::. `::::::::::: :::.:: ::::::  `:'.::: :
+ ::'           `::::::'' ..::' ::::'.:.`:::::::::.`:'::  ::::::  :. :::'.:
+ ::             .`''..:::::'' ::::'.:::'.`::::::::: :: . :::::  :: :::'.:
+ :'              ``::'  `::  ::::'.:::: ::.`:::::: :: ::. :::: :: :::: :'.
+ :                 :' :  :' ::::'.:::: :::::.`::: .::  ::.`:: .: :::: :'.:
+ :.              : : .'  : ::::'.:::: :::::::..`'.:: :. :: :: :: ::: .: :'
+ ::             .: :.' . : :::'.:::: :::::' `::' :: .:: :'.: .: :::  :' `:
+ `::..    ...::::' '   ' : ::'.:::: :::::::.::  .:: ::'.'.:: :' ::   :    `
+  `:::::::::::::: :    : ' :'.:::: :::::' `::   :: .::..:::: : ::'   `.
+ .   ``':::::'' .::.  :' :   :::: :::::::.::    :: :::::::: :' ::     `.
+ ::..       ..::::::::'  .  :::: :::::' `::    .:' :::::::: : ::'
+ :::::: : ::::::::::' .'   .:::':::::::.::     :: .:::::::: '.::
+ `:::: :'.::::::'' ..:'    ::'.:::::' `::     ......... ::: .:::
+  ``:: :.`::''   .. `:    .'.:::'::::.::      : '     : ::: :::
+       `:.      :  ' '   ..:;''.::' `::       : SMALL : ::  :::
+        `:::..  ``....::'''..::::::.:::       : STATS : ::  ::::
+          `::::::.......::::::::' `::'.       : ZO1Z! : ::  `:::
+            ``:::::::::::::::::::.::: .       :.......' : .  :::.
+                ````:::::::::'' :::::.:          ......;: `.  :::      .
+                        ````` ...::::::.          :::::::: :   :::.   .'
+                         ` ..  ``````:::::::....   ::::::: `:   ``::::'
+                             ``:::::....... .       ::::::: :.
+                                  '''::'' ..          :::::. :.
+                                      : `:'             ::::. ::
+                                      '  '                `::. ::
+                                      :                     `: `::
+                                                             '  :::
+                                      .                         `::
+                                                                 :::
+                                      :                          :::
+                                      .                          `::.
+                                                                  :::
+                                                                  ::'
+                                                                  ::
+                                                                 .:'
+                                                                 ::
+                                      .                          :'
+                                      .                         :'
+                                      :                .       :
+                                      .                `.   ..'
+                                                         '''
+			   			
