@@ -1,0 +1,155 @@
+                   /
+                       (_
+                 /    ___)              /
+         _ _____/    (                 /(____ __ _
+             )_      /                /    (
+   ........ . /     /.. .            /     /               .
+   :         /     /                /     /                .
+   :    ____/     /__________   ___/     /___              :
+   :   (  \      _____     /     \     _____/              .
+   :... . /     /   //    /______/    //   _______  . ......
+         /     /___/  ___/      /     /   /    (           :
+        /    _____     \       _\_   /___/     /           .
+   _ __/_____(_  /_____/      /    _____      /            .
+      /"       )      /      /_____/  _)     (__ ___ _      /
+             ________/__    /    '   (     ___        _____/(____
+           ___)__      / _ /_    :         /        ___)__      /
+          (__   /     / (_______,$        /        (_    /     /  _____
+             ' /     /    ,$$$***$$$,          .    .   /     /  /   (
+      ..... . /     /   ,$$^'   `$`^$$,     __,$_____) /    _/__/    /______ _.
+ .____:__ ___/     /___.$$'___   '  `$$. ,$$$***$$$,  /   __________      /   |
+ |    :    \     _____ $$l (         l$$$$^'  `$"`^$$.    '(       /     /    |
+ |    :    /    //   / `$$,/        ,$$$$'     '   `$$.    /  ____/     /     |
+ |    .   /     /___/   `$$i,     ,i$$$$l  _ __     l$$   /.    \      /      |
+ |       /     ____      /`^$$*y*$$^' `$$,    (___ ,$$'__/ .    /     /___    |
+ |   _ _/_____(_  /     (__ _ ""$$'    `$$i,     ,i$$'""   :.../___  ____(_ ..|
+ |     /"       '/     ___       $       `^$$*y*$$^'       .       )/         |
+ |              /     /          :           """           :       /          |
+ |                            P R.E S E N T S              .                  |
+ |            /                  .                                            |
+ |                 Process-Driven Applications with BPMN                      |
+ |                                                                            |
+ |                                                                            |
+ |                                                                            |
+ |                                                                            |
+ | DATE: 2015-01-19  SIZE: 13,38MB  DISKS: 03_______4,77MB      PAGES:        |
+ |                                                                            |
+ | PUBLISHER: Springer                          GENRE: Computer Science       |
+ |                                                                            |
+ | AUTHOR: Stiehl, Volker                                                     |
+ |                                                                            |
+ | FORMAT: PDF    PROTECTION: none    EDITION:                                |
+ |                                                                            |
+ | URL: http://bit.ly/1GlE2PK                                                 |
+ |                                                                            |
+ | LANGUAGE: English   ISBN: 978-3-319-07218-0                                |
+ :                                                                            :
+ : How can we optimize differentiating business processes and exploit their   :
+ : full potential? Here Volker Stiehl provides answers, utilizing the various :
+ : options that the BPMN (Business Process Model and Notation) standard offers:
+ : for planning, implementing, and monitoring processes.                      :
+ :                                                                            :
+ : The book presents an approach for implementing an architecture             :
+ : formplemented on any other comparable platform as well. applications that  :
+ : strives to find a balance between development and maintenance costs,       :
+ : sustainability, scalability, and fault tolerance; that meets flexibility   :
+ : requirements without becoming inordinately complex itself; and that keeps  :
+ : the end application as abstract as possible from the system landscape in   :
+ : which it operates. Based on the semantic enhancements found in version 2.0 :
+ : of the BPMN standard, which have made it possible to execute process       :
+ : models, his approach exploits BPMN to create and run complete application  :
+ : architectures. In this context, BPMN is not just used to model the business:
+ : processes of the application, as the “B” in BPMN might suggest; but also to:
+ : model and execute the integration processes between the systems. Throughout:
+ : the book, the software package SAP Process Orchestration is used to        :
+ : illustrate the implementation of the proposed architecture, yet all        :
+ : recommendations are intentionally kept generic so that they can be         :
+ : implemented on any other comparable platform as well.                      :
+ :                                                                            :
+ : Software architects, IT managers, software developers and project managers,:
+ : as well as students of information and business technology will find the   :
+ : book a valuable resource. The proposed application architecture offers them:
+ : a detailed blueprint, the principles of which they can use to plan and     :
+ : implement process-driven distributed applications.                         :
+
+ .                                                                            :
+
+                                                                             .:
+                                                                             `:
+ .                                                                           ::
+   Looking for suppliers of quality Ebooks in any language!                  ::
+ :                                                                           ::
+ :.                           ....,               ....  ....   `   ..       .::
+ :                          :::'   '       ...::::'''     ``::::::...` ```:::::
+ `:                        ::::.    ....:::::::::..      ..:' `:'::::::::...``:
+ `:                        `::::::...``:::::::::' `::'''''':  .:::::::::::::::.
+ ::                     ' ...```:::::::. `'''''''....::'.:.  . ... ```````:::::
+ ::            .  ''...::::::::' . ``:::: ::'.: ::::::: ::: ::. : ' .:'  ..   '
+ :::....::::'''...:::::::''''..::::;. ::: :: ::: ::::::: ::.`:: :  .:`:,:' ' :
+ `:::''''...::::::'''' ...:::::::::''.:: :::.`::: ::::::.`:: :: `:::. .:    :'
+ . .,::::'''''.. .   :::::::::::''.::''  ::::.`::: :::::: ::. :: :'`:::     :
+ : ' .....''''       `.:::::''..:''..:::.`::::.`::: :::::.`:: ::.`::' :.   ::
+ :. ``::             .::::'.:''.....``:::.`:::::.`:: ::::: ::  :: :.   ::.::'
+ :'                 .::::'.:' ''``:::. :::.`::::::.`: :::' :: : :: :::' `:.:
+ .                 :::::: :'  .$$. ``' `:::.`:::::::.` :: ::: `: :: ::   :'
+ .                .`::::: : . `. $'.:' .:::::`::::::::. ' :: :.`: :: :: . .
+                 ::.`::::. :.   _..''  :.: :'  `:::::::: ::: ::.`: :: :':'
+                ::::::::::.`:.       .:':  '.:.  `:::::'::: ::::.`: ::` :
+ .              `:`::.::::::..``..::::' '.   '  :  :::':::' :::::.`: :: '
+ :               ` :'::::::':::::::::::.:`::.:::'.: :':::'.`.`::::.`: ::
+ .               :.':::::::.`:::::::::':. .:' :  :' .:::'::: :`::::.`: :'.:.
+                 ` ::::::::::.``:::::   ::: . ' :: .:::'::::: :`::::.` .:'.:
+ .                ::::::::::..`:..```...:.' ' . : .:::; .::::: :`:::'.:'.::'
+                 :::::::::::::: ::::::'::  :. : ' :::: :: ::::. ::'.:'.:::'.
+                 `:::::::'' . '  :::'`.: .:'  :  ::::'.::: :::: '.:'.:::'.':
+                  `''' ... :::.: `::.:.' :'  :'  :::: :::' ::::. :::::'.'.:'
+                   .:: `:: .:::' `::'   .:..:'. :::: :::' . :::: :::'.'.:'.:
+                   ... ... ..... ::::.'.:'.:: ` :'. :::' :: `:::: '.:::'.:':
+                 ...`` ``: :::'' ::::: :;:' ::. .:'.::: .:': :::: :::'.::.::
+                ` `:::::......:':::::'.: :.:' '.:' ::: .:'.:.:::: `'.::::::'
+                : .:::::::::::'.::::: '``::' ..': ::: ::'.: ::::: .:::::::'.
+                `::.:::::::::'::::::'.:: .:. . :'.::'.:'.:':::::'.:::::::'.'
+      ....       .`::::::''..::::::' ``: ''  ::: ::: :'.:: ::::: ::::::'. :
+   .:''   :    .:::.`::::::::::''. `.::::...:::: :::.`.:: :::::' ::::'.:'.:
+  ::     '     :::::::::::'''.'.:::. `::::::::::: :::.:: ::::::  `:'.::: :
+ ::'           `::::::'' ..::' ::::'.:.`:::::::::.`:'::  ::::::  :. :::'.:
+ ::             .`''..:::::'' ::::'.:::'.`::::::::: :: . :::::  :: :::'.:
+ :'              ``::'  `::  ::::'.:::: ::.`:::::: :: ::. :::: :: :::: :'.
+ :                 :' :  :' ::::'.:::: :::::.`::: .::  ::.`:: .: :::: :'.:
+ :.              : : .'  : ::::'.:::: :::::::..`'.:: :. :: :: :: ::: .: :'
+ ::             .: :.' . : :::'.:::: :::::' `::' :: .:: :'.: .: :::  :' `:
+ `::..    ...::::' '   ' : ::'.:::: :::::::.::  .:: ::'.'.:: :' ::   :    `
+  `:::::::::::::: :    : ' :'.:::: :::::' `::   :: .::..:::: : ::'   `.
+ .   ``':::::'' .::.  :' :   :::: :::::::.::    :: :::::::: :' ::     `.
+ ::..       ..::::::::'  .  :::: :::::' `::    .:' :::::::: : ::'
+ :::::: : ::::::::::' .'   .:::':::::::.::     :: .:::::::: '.::
+ `:::: :'.::::::'' ..:'    ::'.:::::' `::     ......... ::: .:::
+  ``:: :.`::''   .. `:    .'.:::'::::.::      : '     : ::: :::
+       `:.      :  ' '   ..:;''.::' `::       : SMALL : ::  :::
+        `:::..  ``....::'''..::::::.:::       : STATS : ::  ::::
+          `::::::.......::::::::' `::'.       : ZO1Z! : ::  `:::
+            ``:::::::::::::::::::.::: .       :.......' : .  :::.
+                ````:::::::::'' :::::.:          ......;: `.  :::      .
+                        ````` ...::::::.          :::::::: :   :::.   .'
+                         ` ..  ``````:::::::....   ::::::: `:   ``::::'
+                             ``:::::....... .       ::::::: :.
+                                  '''::'' ..          :::::. :.
+                                      : `:'             ::::. ::
+                                      '  '                `::. ::
+                                      :                     `: `::
+                                                             '  :::
+                                      .                         `::
+                                                                 :::
+                                      :                          :::
+                                      .                          `::.
+                                                                  :::
+                                                                  ::'
+                                                                  ::
+                                                                 .:'
+                                                                 ::
+                                      .                          :'
+                                      .                         :'
+                                      :                .       :
+                                      .                `.   ..'
+                                                         '''
+			   			
