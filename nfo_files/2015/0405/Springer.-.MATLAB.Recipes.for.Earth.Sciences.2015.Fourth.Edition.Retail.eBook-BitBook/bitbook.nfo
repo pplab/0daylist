@@ -1,0 +1,150 @@
+                   /
+                       (_
+                 /    ___)              /
+         _ _____/    (                 /(____ __ _
+             )_      /                /    (
+   ........ . /     /.. .            /     /               .
+   :         /     /                /     /                .
+   :    ____/     /__________   ___/     /___              :
+   :   (  \      _____     /     \     _____/              .
+   :... . /     /   //    /______/    //   _______  . ......
+         /     /___/  ___/      /     /   /    (           :
+        /    _____     \       _\_   /___/     /           .
+   _ __/_____(_  /_____/      /    _____      /            .
+      /"       )      /      /_____/  _)     (__ ___ _      /
+             ________/__    /    '   (     ___        _____/(____
+           ___)__      / _ /_    :         /        ___)__      /
+          (__   /     / (_______,$        /        (_    /     /  _____
+             ' /     /    ,$$$***$$$,          .    .   /     /  /   (
+      ..... . /     /   ,$$^'   `$`^$$,     __,$_____) /    _/__/    /______ _.
+ .____:__ ___/     /___.$$'___   '  `$$. ,$$$***$$$,  /   __________      /   |
+ |    :    \     _____ $$l (         l$$$$^'  `$"`^$$.    '(       /     /    |
+ |    :    /    //   / `$$,/        ,$$$$'     '   `$$.    /  ____/     /     |
+ |    .   /     /___/   `$$i,     ,i$$$$l  _ __     l$$   /.    \      /      |
+ |       /     ____      /`^$$*y*$$^' `$$,    (___ ,$$'__/ .    /     /___    |
+ |   _ _/_____(_  /     (__ _ ""$$'    `$$i,     ,i$$'""   :.../___  ____(_ ..|
+ |     /"       '/     ___       $       `^$$*y*$$^'       .       )/         |
+ |              /     /          :           """           :       /          |
+ |                            P R.E S E N T S              .                  |
+ |            /                  .                                            |
+ |                   MATLAB® Recipes for Earth Sciences                       |
+ |                                                                            |
+ |                       Intensively revised edition                          |
+ |                                                                            |
+ |                                                                            |
+ | DATE: 2015-04-04  SIZE: 20,00MB  DISKS: 05_______4,77MB      PAGES:        |
+ |                                                                            |
+ | PUBLISHER: Springer                          GENRE: Geology                |
+ |                                                                            |
+ | AUTHOR: Trauth, Martin                                                     |
+ |                                                                            |
+ | FORMAT: PDF    PROTECTION: none    EDITION: Fourth Edition                 |
+ |                                                                            |
+ | URL: http://www.springer.com/us/book/9783662462430                         |
+ |                                                                            |
+ | LANGUAGE: English   ISBN: 978-3-662-46244-7                                |
+ :                                                                            :
+ : MATLAB® is used for a wide range of applications in geosciences, such as   :
+ : image processing in remote sensing, the generation and processing of       :
+ : digital elevation models and the analysis of time series. This book        :
+ : introduces methods of data analysis in geosciences using MATLAB, such as   :
+ : basic statistics for univariate, bivariate and multivariate datasets,      :
+ : time-series analysis, signal processing, the analysis of spatial and       :
+ : directional data and image analysis. The revised and updated Fourth Edition:
+ : includes sixteen new sections and most chapters have greatly been expanded :
+ : so that they now include a step by step discussion of all methods before   :
+ : demonstrating the methods with MATLAB functions. New sections include:     :
+ : Array Manipulation; Control Flow; Creating Graphical User Interfaces;      :
+ : Hypothesis Testing; Kolmogorov-Smirnov Test; Mann-Whitney Test;            :
+ : Ansari-Bradley Test; Detecting Abrupt Transitions in Time Series; Exporting:
+ : 3D Graphics to Create Interactive Documents; Importing, Processing and     :
+ : Exporting LANDSAT Images; Importing and Georeferencing TERRA ASTER Images; :
+ : Processing and Exporting EO-1 Hyperion Images; Image Enhancement;          :
+ : Correction and Rectification; Shape-Based Object Detection in Images;      :
+ : Discriminant Analysis; and Multiple Linear Regression. The text includes   :
+ : numerous examples demonstrating how MATLAB can be used on data sets from   :
+ : earth sciences. The book’s supplementary electronic material (available    :
+ : online through Springer Link) includes recipes that include all the MATLAB :
+ : commands featured in the book and the example data.                        :
+
+ .                                                                            :
+
+                                                                             .:
+                                                                             `:
+ .                                                                           ::
+   Looking for suppliers of quality Ebooks in any language!                  ::
+ :                                                                           ::
+ :.                           ....,               ....  ....   `   ..       .::
+ :                          :::'   '       ...::::'''     ``::::::...` ```:::::
+ `:                        ::::.    ....:::::::::..      ..:' `:'::::::::...``:
+ `:                        `::::::...``:::::::::' `::'''''':  .:::::::::::::::.
+ ::                     ' ...```:::::::. `'''''''....::'.:.  . ... ```````:::::
+ ::            .  ''...::::::::' . ``:::: ::'.: ::::::: ::: ::. : ' .:'  ..   '
+ :::....::::'''...:::::::''''..::::;. ::: :: ::: ::::::: ::.`:: :  .:`:,:' ' :
+ `:::''''...::::::'''' ...:::::::::''.:: :::.`::: ::::::.`:: :: `:::. .:    :'
+ . .,::::'''''.. .   :::::::::::''.::''  ::::.`::: :::::: ::. :: :'`:::     :
+ : ' .....''''       `.:::::''..:''..:::.`::::.`::: :::::.`:: ::.`::' :.   ::
+ :. ``::             .::::'.:''.....``:::.`:::::.`:: ::::: ::  :: :.   ::.::'
+ :'                 .::::'.:' ''``:::. :::.`::::::.`: :::' :: : :: :::' `:.:
+ .                 :::::: :'  .$$. ``' `:::.`:::::::.` :: ::: `: :: ::   :'
+ .                .`::::: : . `. $'.:' .:::::`::::::::. ' :: :.`: :: :: . .
+                 ::.`::::. :.   _..''  :.: :'  `:::::::: ::: ::.`: :: :':'
+                ::::::::::.`:.       .:':  '.:.  `:::::'::: ::::.`: ::` :
+ .              `:`::.::::::..``..::::' '.   '  :  :::':::' :::::.`: :: '
+ :               ` :'::::::':::::::::::.:`::.:::'.: :':::'.`.`::::.`: ::
+ .               :.':::::::.`:::::::::':. .:' :  :' .:::'::: :`::::.`: :'.:.
+                 ` ::::::::::.``:::::   ::: . ' :: .:::'::::: :`::::.` .:'.:
+ .                ::::::::::..`:..```...:.' ' . : .:::; .::::: :`:::'.:'.::'
+                 :::::::::::::: ::::::'::  :. : ' :::: :: ::::. ::'.:'.:::'.
+                 `:::::::'' . '  :::'`.: .:'  :  ::::'.::: :::: '.:'.:::'.':
+                  `''' ... :::.: `::.:.' :'  :'  :::: :::' ::::. :::::'.'.:'
+                   .:: `:: .:::' `::'   .:..:'. :::: :::' . :::: :::'.'.:'.:
+                   ... ... ..... ::::.'.:'.:: ` :'. :::' :: `:::: '.:::'.:':
+                 ...`` ``: :::'' ::::: :;:' ::. .:'.::: .:': :::: :::'.::.::
+                ` `:::::......:':::::'.: :.:' '.:' ::: .:'.:.:::: `'.::::::'
+                : .:::::::::::'.::::: '``::' ..': ::: ::'.: ::::: .:::::::'.
+                `::.:::::::::'::::::'.:: .:. . :'.::'.:'.:':::::'.:::::::'.'
+      ....       .`::::::''..::::::' ``: ''  ::: ::: :'.:: ::::: ::::::'. :
+   .:''   :    .:::.`::::::::::''. `.::::...:::: :::.`.:: :::::' ::::'.:'.:
+  ::     '     :::::::::::'''.'.:::. `::::::::::: :::.:: ::::::  `:'.::: :
+ ::'           `::::::'' ..::' ::::'.:.`:::::::::.`:'::  ::::::  :. :::'.:
+ ::             .`''..:::::'' ::::'.:::'.`::::::::: :: . :::::  :: :::'.:
+ :'              ``::'  `::  ::::'.:::: ::.`:::::: :: ::. :::: :: :::: :'.
+ :                 :' :  :' ::::'.:::: :::::.`::: .::  ::.`:: .: :::: :'.:
+ :.              : : .'  : ::::'.:::: :::::::..`'.:: :. :: :: :: ::: .: :'
+ ::             .: :.' . : :::'.:::: :::::' `::' :: .:: :'.: .: :::  :' `:
+ `::..    ...::::' '   ' : ::'.:::: :::::::.::  .:: ::'.'.:: :' ::   :    `
+  `:::::::::::::: :    : ' :'.:::: :::::' `::   :: .::..:::: : ::'   `.
+ .   ``':::::'' .::.  :' :   :::: :::::::.::    :: :::::::: :' ::     `.
+ ::..       ..::::::::'  .  :::: :::::' `::    .:' :::::::: : ::'
+ :::::: : ::::::::::' .'   .:::':::::::.::     :: .:::::::: '.::
+ `:::: :'.::::::'' ..:'    ::'.:::::' `::     ......... ::: .:::
+  ``:: :.`::''   .. `:    .'.:::'::::.::      : '     : ::: :::
+       `:.      :  ' '   ..:;''.::' `::       : SMALL : ::  :::
+        `:::..  ``....::'''..::::::.:::       : STATS : ::  ::::
+          `::::::.......::::::::' `::'.       : ZO1Z! : ::  `:::
+            ``:::::::::::::::::::.::: .       :.......' : .  :::.
+                ````:::::::::'' :::::.:          ......;: `.  :::      .
+                        ````` ...::::::.          :::::::: :   :::.   .'
+                         ` ..  ``````:::::::....   ::::::: `:   ``::::'
+                             ``:::::....... .       ::::::: :.
+                                  '''::'' ..          :::::. :.
+                                      : `:'             ::::. ::
+                                      '  '                `::. ::
+                                      :                     `: `::
+                                                             '  :::
+                                      .                         `::
+                                                                 :::
+                                      :                          :::
+                                      .                          `::.
+                                                                  :::
+                                                                  ::'
+                                                                  ::
+                                                                 .:'
+                                                                 ::
+                                      .                          :'
+                                      .                         :'
+                                      :                .       :
+                                      .                `.   ..'
+                                                         '''
+			   			
