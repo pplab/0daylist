@@ -1,0 +1,111 @@
+                                 (__)
+                                 (oO)
+                                  \/-------\
+                                   |      | \
+                                   ||----||  *
+                                   ~~    ~~
+  
+                                   presents
+  
+                                Cat goes Fishing
+                                 
+                                Protection: None
+  
+                          Version: Realism Mode Update
+								
++------------------------------------------------------------------------------+
+| Start out on an island with nothing more than a basic rod. Progress into a   |
+| radar-wielding master fisher-cat scouring the sea for the biggest and baddest|
+| fish. Each fish has unique behaviors that you will learn to exploit as you   |
+| tailor your arsenal of fishing rods to suit your style of play.              |
+|                                                                              |
+| Key Features                                                                 |
+| - Complete quests to earn cash.                                              |
+| - Unlock better rods to catch more valuable fish.                            |
+| - Customize your rod with upgrades to suit your play style.                  |
+| - Find and equip rare hats that dramatically change the dynamic of the game. |
+| - Unlock boats to travel out onto the sea.                                   |
+| - Fill your catalog with the fish you catch.                                 |
+| - Discover what lurks in the dark depths.                                    |
+|                                                                              |
+| Regular updates will bring new fish, boats, hats, and entirely new mechanics |
+| to the game, extending your experience and offering new ways to master the   |
+| game.                                                                        |
++------------------------------------------------------------------------------+
+|                                                                              |
+|                               1. Unpack                                      |
+|                               2. Play & Have Fun :)                          |
+|                                                                              |
+|                  Hint: No need to have Cat.goes.Fishing-RINDVIEH             |
+|                                                                              |
++------------------------------------------------------------------------------+
+|                  <3 Muh loves Miau <3 (yeah still in love ^^)                |
++------------------------------------------------------------------------------+
+
+Changelog:
+
+If you already have a save file, then your game will begin in classic mode.
+To start a game in realism mode, start a new save file by hitting 'esc'
+to open the save menu. 
+
+Patch Summary:
+ - New game mode: Realism. 
+ - Support for multiple save files. 
+ - Major AI improvements and visual updates. 
+ - New upgrades/hats/fish. 
+ - A plethora of balance changes. 
+ - Catalog/interface improvements, bug fixes, and more!
+
+Complete patch notes:
+
+ + New game mode: Realism 
+ |- Fish thrall against your line once hooked. 
+ |- Your line can snap if you're not careful! 
+ |- Some fish lunges can be dodged by boat strafing or reeling
+
+ + Changes to fish: 
+ |- Fish value decreases more quickly when a fish is damaged. 
+ |- 4 new small fish. 
+ |- 6 new medium fish. 
+ |- 5 new large fish. 
+ |- 2 new huge fish. 
+ |- Fish values and respawn timers re-balanced.
+
+ + Changes to boats: 
+ |- Basic boat is now slightly faster. 
+ |- Great boat is now slightly slower. 
+ |- Boat costs decreased greatly.
+
+ + Changes to Rods/Upgrades: 
+ |- 6 new rod upgrades. 
+ |- Great Rod/Master Rod costs increased. 
+ |- Upgrade costs reduced for higher level rods.
+
+ + Changes to hats: 
+ |- 1 new Legendary hat. 
+ |- Rare and legendary hats are more common. 
+ |- Reworked: Bones, Boater, Grindhard, Cuddlebane, Trilby, and Fez.
+
+ + Changes to tools: 
+ |- Radar cost greatly increased. 
+ |- Radar now keeps the boat at the left edge of the radar panel when possible. 
+ |- Radar now tracks the lure when it goes off screen.
+
+ + Changes to the catalog: 
+ |- Fish no longer show up in catalog until caught or until a quest for that fish has been given.
+ |- Fish now display their "best catch" health level in the catalog. 
+ |- Mouse scroll-wheel now scrolls through the catalog.
+
+ + Changes to lures (now "attachments"): 
+ |- "Lure shop" renamed to "attachment shop". 
+ |- Lightbulb duration increased. 
+ |- Rocket distance increased for early rods. 
+ |- Bomb scare timer is now lower for fish near the shore.
+
+ + Miscellaneous changes: 
+ |- New achievements! 
+ |- Support for multiple save files! (Hit esc.) 
+ |- Hit 'S' to sell your fish quickly. 
+ |- Hit 'R' or 'B' to buy a rocket or bomb quickly. 
+ |- Hit 'M' to set the music volume level. (0/25/50/100%) 
+ |- "Unlock"-type achievements are checked when the game starts.
